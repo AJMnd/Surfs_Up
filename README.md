@@ -14,9 +14,11 @@ After the analysis we can see that the weather during the months of June and Dec
 
 ◻️ December: In the month of December there is a minimum temperature of 56 and a maximum of 83.
 
-◻️ The weather maximums for both months are in the mid to low 80's, which is ideal for experiencing   the tropical islands and all the water sports. 
+◻️ The weather maximums for both months are in the mid to low 80's, which is ideal for experiencing the tropical islands and all the water sports. 
 
-## Summary
+## Summary 🌊
 
-Everyone flocks to Hawaii to experience the tropical vacation destination. In fact, December is one of the busiest times to visit Hawaii. Because the islands maintains that tropical weather year around. And even though there may be some rain in December, those showers last about 10 min and usually occur at night. 
-The analysis shows that the surf/ ice cream shop will be successful year around. Specially with the winter surfing happening in North shore, this is the time Oahu sees the biggest waves. The waves that Hawaii is known for.
+Everyone flocks to Hawaii to experience the tropical vacation destination. In fact, December is one of the busiest times to visit Hawaii. 
+Because the islands maintains that tropical weather year around. And even though there may be some light showers in December, those showers last about 10 min and usually occur at night. 
+The analysis shows that the surf/ ice cream shop will be successful year around. 
+Specially with the winter surfing happening in North shore, this is the time Oahu sees the biggest waves. The waves that Hawaii is known for.
